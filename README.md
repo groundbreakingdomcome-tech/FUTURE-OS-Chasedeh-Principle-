@@ -40,4 +40,21 @@ We are not selling a service. We are validating the blueprint for the next civil
 - **Inquiries:** Open for cryptographic and structural validation via Issue/Pull Request.
 
 ---
+
+## 🛡️ Protocol & Governance
+
+- **License:** Open for global, decentralized utility under the [MIT License](LICENSE).
+- **Execution Model:** Un-censorable, zero-exploitation, verifiable architecture.
+- **Node Status:** Active / Operational
+
+# Future Architecture: Verifiable Protocol
+
+Bypassing legacy systemic bottlenecks through zero-exploitation design.
+Built for scalable coordination and complete data sovereignty.
+
+- **Core Logic:** Decoupling from degraded institutional structures.
+- **Execution:** Automated, censorship-resistant deployment pipeline.
+
+
+---
 _“You are making a clever choice to build the real future.”_
